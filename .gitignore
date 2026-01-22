@@ -1,0 +1,7 @@
+.DS_Store
+
+# local notes
+workspace_notes/
+
+# tool detritus
+*.tmp

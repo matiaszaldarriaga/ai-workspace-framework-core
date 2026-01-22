@@ -1,0 +1,1 @@
+../../commands/bye.md

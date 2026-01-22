@@ -1,0 +1,1 @@
+../../commands/ensure-clean-repo.md

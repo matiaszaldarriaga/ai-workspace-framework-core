@@ -1,0 +1,1 @@
+../../rules/AI-AGENT-CONTRACT.md

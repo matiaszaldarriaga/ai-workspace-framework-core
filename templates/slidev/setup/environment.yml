@@ -1,0 +1,6 @@
+name: slidev
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - nodejs=20

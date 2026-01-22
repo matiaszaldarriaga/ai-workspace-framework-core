@@ -1,0 +1,43 @@
+# Slidev Default Configuration
+# Copy to presentation directory as slidev-config.yaml to override
+
+# Theme options: default, seriph, apple-basic, bricks
+theme: default
+
+# Syntax highlighting theme
+highlighter: shiki
+
+# Line numbers in code blocks
+lineNumbers: false
+
+# Enable drawings (slidev feature)
+drawings:
+  persist: false
+
+# Slide transition
+transition: slide-left
+
+# Aspect ratio: 16/9, 16/10, 4/3
+aspectRatio: 16/9
+
+# Canvas width (viewport basis for scaling)
+canvasWidth: 980
+
+# Export settings
+export:
+  format: pdf
+  timeout: 30000
+  dark: false
+  withClicks: false
+  withToc: false
+
+# Monaco editor for code snippets
+monaco: false
+
+# Download PDF link in exported slides
+download: false
+
+# Info shown in title slide
+info: |
+  Presentation created with Slidev
+  [Learn more](https://sli.dev)
