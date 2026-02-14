@@ -7,4 +7,5 @@ Primary usage: vendored into project repositories (e.g. as a git submodule). The
 Key directories:
 - `rules/` — binding workspace rules
 - `commands/` — reusable slash-command templates
+- `guides/` — domain-specific reference guides (compute infrastructure, optimization methodology)
 - `templates/` — reusable templates

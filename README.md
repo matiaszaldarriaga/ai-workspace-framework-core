@@ -6,6 +6,7 @@ Minimal shared framework used as a vendored dependency inside project repos.
 
 - `rules/` — workspace rules and agent contract
 - `commands/` — core reusable commands (workflow + templates)
+- `guides/` — domain-specific reference guides for AI agents (compute infrastructure, optimization methodology)
 - `templates/` — reusable project templates (e.g. Slidev, sqlite-mcp-db)
 
 ## How it is used
